@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106623918009",
+    "project_id": "yum-yum-2fb38",
+    "storage_bucket": "yum-yum-2fb38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106623918009:android:37652bc3db82702da5a068",
+        "android_client_info": {
+          "package_name": "com.luutran.mycookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106623918009-3um2estcti8ofki9lirfko7mshsc3nmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luutran.mycookingapp",
+            "certificate_hash": "ded5edad97b5af18b14985890d47f85347686614"
+          }
+        },
+        {
+          "client_id": "106623918009-j585svma9s1s7hc840g3o114ih2du5u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoqyeJ9jE3i-Nc1ER5Z_HEVtlCS7AnYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106623918009-j585svma9s1s7hc840g3o114ih2du5u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

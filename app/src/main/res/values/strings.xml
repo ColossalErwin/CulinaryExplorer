@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCookingApp</string>
+    <string name="default_web_client_id">106623918009-j585svma9s1s7hc840g3o114ih2du5u9.apps.googleusercontent.com</string>
+    <string name="back">back</string>
+</resources>
